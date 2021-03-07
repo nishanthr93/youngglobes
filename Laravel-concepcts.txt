@@ -1,0 +1,29 @@
+1.Laravel-mix 
+  	 Used for importing the js,css library.here we imported the tailwindcss.
+2.Aunthentications
+    Migration-database schema
+        Learn migrate commands
+        php artisan make:migrate
+        php artisan make:migration add_username_to_users_table
+        php artisan migrate:rollback
+    
+    Controllers
+        php artisan make:controller Auth/RegisterController
+
+    Blade
+        blade syntax,
+    
+    Routing
+        routing with name
+
+    @csrf
+
+    directives
+        in blade @error
+    
+    Helper
+        old for form display enter values
+        Hash
+    Model
+        Create() for Create record in elquent method 
+

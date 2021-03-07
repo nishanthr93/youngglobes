@@ -1,0 +1,18 @@
+@import "~tailwindcss/base.css";
+@import "~tailwindcss/components.css";
+@import "~tailwindcss/utilities.css";
+
+.profile-img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.username {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 29px;
+}
+
+.username h1.text-2xl.font-medium.mb-1 {
+    text-transform: capitalize;
+}
